@@ -1,6 +1,9 @@
 #!/bin/bash
 
-cd /home/s96418/kol/s96418/zad2
-mkdir kopia-home-22012021-1228
-cd kopia-home-22012021-1228
-mkdir 
+mkdir kopia-home-22012021-1304
+cd kopia-home-220112021-1304
+mkdir zad2
+cd zad2
+mkdir s96418
+cd s96418
+echo "kopia-home-22012021-1304, zad2, s96418" >> log.txt
