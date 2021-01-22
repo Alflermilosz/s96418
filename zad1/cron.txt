@@ -1,0 +1,1 @@
+0 15 10 1/1 * ? *  cp /home/s96418/kol/s96418/zad1/rozw.txt >>  /home/s96418/kol/s96418/zad1/notatki.txt

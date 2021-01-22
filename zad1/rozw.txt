@@ -1,0 +1,2 @@
+Znam 2 rodzaje wirtualizacji. Pierwszy to program putty ktory pozwala nam zdalnie polaczyc sie z powloka shel wczesniej utworzonego systemu Linuxowego.
+Drugi to program VirtualBox ktory pozwala na zdalne polaczenie sie z systemem ale nie tylko w terminalu ale tez na poziomie wizualnym calego systemu.
